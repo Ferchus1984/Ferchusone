@@ -10,6 +10,10 @@ namespace FerchusConsole
     {
         public string LasName { get; set; }
 
+        public int Suma(int a, int b)
+        {
+            return a + b;
 
+        }
     }
 }
