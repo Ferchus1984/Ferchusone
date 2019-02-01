@@ -8,6 +8,7 @@ namespace FerchusConsole
 {
     public class Operaciones
     {
+        public string LasName { get; set; }
 
 
     }
